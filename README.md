@@ -98,9 +98,9 @@
 
    退款策略：24 小时内不满意退款
 
-1. [yunwu](https://yunwu.ai/register?aff=jfKr4M)
+1. [YunWu](https://yunwu.ai/register?aff=jfKr4M)
 
-   支持模型：Claude Code，Codex
+   支持模型：Claude Code，Codex，Gemini
 
    价格：按量付费
 
