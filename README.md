@@ -122,6 +122,18 @@
 
    退款策略：24 小时内不满意退款
 
+1. [Right Codes](https://right.codes/register?aff=fb78e9c7)
+
+   支持模型：Codex
+
+   价格：￥45/月，￥60/月，￥75/月
+
+   购买方式：支付宝
+
+   注册优惠：暂无
+
+   退款策略：暂无
+
 1. [UU Code](https://www.uucode.org/auth?ref=KR4FP6XP)
 
    支持模型：Claude Code，Codex
