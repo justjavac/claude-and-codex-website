@@ -57,6 +57,7 @@
 | [Cpass](https://cf.cpass.cc/register?aff=JFZj)                    | Claude/Codex/Gemini | 微信、支付宝         | 注册送 2 元    |
 | [Cubence](https://cubence.com/signup?code=SCYZTMP5)               | Claude/Codex/Gemini | 微信、支付宝         | 暂无           |
 | [DuckCoding](https://www.duckcoding.ai/register?aff=O0m6)         | Claude/Codex        | 支付宝               | 注册送 1 元    |
+| [Flapcode](https://flapcode.com)                                  | Claude/Codex        | 微信               | 暂无           |
 | [iKunCode](https://api.ikuncode.cc/register?aff=Q9eD)             | Claude/Codex        | 微信、支付宝         | 暂无           |
 | [Neko Code](https://nekocode.ai?aff=EKQK1E4D)                     | Claude/Codex        | 微信、支付宝         | 暂无           |
 | [OpenClaudeCode](https://www.openclaudecode.cn/register?aff=66ee) | Claude/Codex/Gemini | 微信、支付宝         | 暂无           |
