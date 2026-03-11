@@ -62,6 +62,18 @@
 
    退款策略：暂无
 
+1. [OpenClaudeCode](https://www.openclaudecode.cn/register?aff=66ee)
+
+   支持模型：Claude Code，Codex，Gemini 等模型
+
+   价格：按量付费
+
+   购买方式：微信、支付宝
+
+   注册优惠：暂无
+
+   退款策略：暂无
+
 ## 贡献指南
 
 欢迎提交 PR 添加新的中转网站
