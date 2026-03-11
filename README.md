@@ -53,17 +53,17 @@
 
 ### 按量付费
 
-| 名称 | 支持模型 | 购买方式 | 注册优惠 |
-|------|----------|----------|----------|
-| [Cpass](https://cf.cpass.cc/register?aff=JFZj) | Claude/Codex/Gemini | 微信、支付宝 | 注册送 2 元 |
-| [Cubence](https://cubence.com/signup?code=SCYZTMP5) | Claude/Codex/Gemini | 微信、支付宝 | 暂无 |
-| [DuckCoding](https://www.duckcoding.ai/register?aff=O0m6) | Claude/Codex | 支付宝 | 注册送 1 元 |
-| [iKunCode](https://api.ikuncode.cc/register?aff=Q9eD) | Claude/Codex | 微信、支付宝 | 暂无 |
-| [Neko Code](https://nekocode.ai?aff=EKQK1E4D) | Claude/Codex | 微信、支付宝 | 暂无 |
-| [OpenClaudeCode](https://www.openclaudecode.cn/register?aff=66ee) | Claude/Codex/Gemini | 微信、支付宝 | 暂无 |
-| [Packy Code](https://www.packyapi.com/register?aff=2x7O) | Claude/Codex/Gemini | 微信、支付宝、信用卡 | 注册送 1 美元 |
-| [UU Code](https://www.uucode.org/auth?ref=KR4FP6XP) | Claude/Codex | 微信、支付宝 | 暂无 |
-| [YunWu](https://yunwu.ai/register?aff=jfKr4M) | Claude/Codex/Gemini | 微信、支付宝 | 注册送 0.20 元 |
+| 名称                                                              | 支持模型            | 购买方式             | 注册优惠       |
+| ----------------------------------------------------------------- | ------------------- | -------------------- | -------------- |
+| [Cpass](https://cf.cpass.cc/register?aff=JFZj)                    | Claude/Codex/Gemini | 微信、支付宝         | 注册送 2 元    |
+| [Cubence](https://cubence.com/signup?code=SCYZTMP5)               | Claude/Codex/Gemini | 微信、支付宝         | 暂无           |
+| [DuckCoding](https://www.duckcoding.ai/register?aff=O0m6)         | Claude/Codex        | 支付宝               | 注册送 1 元    |
+| [iKunCode](https://api.ikuncode.cc/register?aff=Q9eD)             | Claude/Codex        | 微信、支付宝         | 暂无           |
+| [Neko Code](https://nekocode.ai?aff=EKQK1E4D)                     | Claude/Codex        | 微信、支付宝         | 暂无           |
+| [OpenClaudeCode](https://www.openclaudecode.cn/register?aff=66ee) | Claude/Codex/Gemini | 微信、支付宝         | 暂无           |
+| [Packy Code](https://www.packyapi.com/register?aff=2x7O)          | Claude/Codex/Gemini | 微信、支付宝、信用卡 | 注册送 1 美元  |
+| [UU Code](https://www.uucode.org/auth?ref=KR4FP6XP)               | Claude/Codex        | 微信、支付宝         | 暂无           |
+| [YunWu](https://yunwu.ai/register?aff=jfKr4M)                     | Claude/Codex/Gemini | 微信、支付宝         | 注册送 0.20 元 |
 
 > 注：部分网站同时支持包月和按量付费，已分别列入对应类别。
 
