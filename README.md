@@ -122,9 +122,21 @@
 
    退款策略：24 小时内不满意退款
 
+1. [HongMa](https://hongmacc.com/signup?ref=HONGMACC-CA1CB2B5)
+
+   支持模型：Claude Code，Codex，Gemini
+
+   价格：¥9.90/年（限购一次），¥248/月，¥368/月，¥798/月
+
+   购买方式：微信、支付宝
+
+   注册优惠：暂无
+
+   退款策略：暂无
+
 1. [Right Codes](https://right.codes/register?aff=fb78e9c7)
 
-   支持模型：Codex
+   支持模型：Codex，Claude Code
 
    价格：￥45/月，￥60/月，￥75/月
 
