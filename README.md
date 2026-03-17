@@ -74,6 +74,7 @@
 | [iKunCode](https://api.ikuncode.cc/register?aff=Q9eD)             | Claude/Codex        | 微信、支付宝         | 暂无           |
 | [Neko Code](https://nekocode.ai?aff=EKQK1E4D)                     | Claude/Codex        | 微信、支付宝         | 暂无           |
 | [OpenClaudeCode](https://www.openclaudecode.cn/register?aff=66ee) | Claude/Codex/Gemini | 微信、支付宝         | 暂无           |
+| [Foxcode](https://foxcode.rjj.cc/auth/register?aff=H5836I) | Claude/Codex/Gemini | 支付宝 | 暂无           |
 | [Packy Code](https://www.packyapi.com/register?aff=2x7O)          | Claude/Codex/Gemini | 微信、支付宝、信用卡 | 注册送 1 美元  |
 | [UU Code](https://www.uucode.org/auth?ref=KR4FP6XP)               | Claude/Codex        | 微信、支付宝         | 暂无           |
 | [YunWu](https://yunwu.ai/register?aff=jfKr4M)                     | Claude/Codex/Gemini | 微信、支付宝         | 注册送 0.20 元 |
