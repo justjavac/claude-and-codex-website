@@ -66,8 +66,9 @@
 
 ### 按量付费
 
-| 名称                                                              | 支持模型            | 购买方式             | 注册优惠       |
+| 名称 | 支持模型 | 购买方式 | 注册优惠 |
 | ----------------------------------------------------------------- | ------------------- | -------------------- | -------------- |
+| [Agent Router](https://agentrouter.org/register?aff=8YoD) | Claude Code、Codex、Gemini Cli 等 | 暂无 | 注册送 100 美元、每日登录送 25 美元、按量计费 |
 | [Cpass](https://cf.cpass.cc/register?aff=JFZj)                    | Claude Code、Codex、Gemini | 微信、支付宝         | 注册送 2 元    |
 | [Cubence](https://cubence.com/signup?code=SCYZTMP5)               | Claude Code、Codex、Gemini | 微信、支付宝         | 暂无           |
 | [DuckCoding](https://www.duckcoding.ai/register?aff=O0m6)         | Claude Code、Codex        | 支付宝               | 注册送 1 元    |
