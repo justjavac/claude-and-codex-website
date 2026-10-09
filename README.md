@@ -77,6 +77,7 @@
 | [Cubence](https://cubence.com/signup?code=SCYZTMP5)               | Claude Code、Codex、Gemini | 微信、支付宝         | 暂无           |
 | [DuckCoding](https://www.duckcoding.ai/register?aff=O0m6)         | Claude Code、Codex        | 支付宝               | 注册送 1 元    |
 | [iKunCode](https://api.ikuncode.cc/register?aff=Q9eD)             | Claude Code、Codex        | 微信、支付宝         | 暂无           |
+| [LinkAGI](https://api.linktoagi.com/) | Claude Code、Codex、Gemini | 微信、支付宝 | 注册并验证邮箱后，联系客服领取体验额度 |
 | [Neko Code](https://nekocode.ai?aff=EKQK1E4D)                     | Claude Code、Codex        | 微信、支付宝         | 暂无           |
 | [OpenClaudeCode](https://www.openclaudecode.cn/register?aff=66ee) | Claude Code、Codex、Gemini | 微信、支付宝         | 暂无           |
 | [Foxcode](https://foxcode.rjj.cc/auth/register?aff=H5836I) | Claude Code、Codex、Gemini | 支付宝 | 暂无           |
