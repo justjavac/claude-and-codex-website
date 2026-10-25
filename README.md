@@ -81,6 +81,7 @@
 | [OpenClaudeCode](https://www.openclaudecode.cn/register?aff=66ee) | Claude Code、Codex、Gemini | 微信、支付宝         | 暂无           |
 | [Foxcode](https://foxcode.rjj.cc/auth/register?aff=H5836I) | Claude Code、Codex、Gemini | 支付宝 | 暂无           |
 | [Packy Code](https://www.packyapi.com/register?aff=2x7O)          | Claude Code、Codex、Gemini | 微信、支付宝、信用卡 | 注册送 1 美元  |
+| [Twinkle Model](https://big-model.smart-agi.com) | Claude Code、Codex（GPT / Claude / Grok / GLM / DeepSeek / Kimi 等；按分组倍率计费：Claude-Kiro 0.15、CC-MAX 1、GPT 0.1–0.25） | 支付宝 | 注册免费试用 |
 | [UU Code](https://www.uucode.org/auth?ref=KR4FP6XP)               | Claude Code、Codex        | 微信、支付宝         | 暂无           |
 | [YunWu](https://yunwu.ai/register?aff=jfKr4M)                     | Claude Code、Codex、Gemini | 微信、支付宝         | 注册送 0.20 元 |
 
