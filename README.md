@@ -47,6 +47,13 @@
 - **购买方式**：微信、支付宝
 - **注册优惠**：暂无
 
+#### [huanvel](https://huanvel.com)
+
+- **支持模型**：Claude Code、Codex
+- **价格**：¥70/7天、¥180/月、¥330/月、¥390/月、¥470/月、¥880/月
+- **购买方式**：微信、支付宝
+- **注册优惠**：暂无
+
 #### [Packy Code（Codex 包月）](https://codex.packycode.com)
 
 - **支持模型**：Codex
@@ -76,6 +83,7 @@
 | [Cpass](https://cf.cpass.cc/register?aff=JFZj)                    | Claude Code、Codex、Gemini | 微信、支付宝         | 注册送 2 元    |
 | [Cubence](https://cubence.com/signup?code=SCYZTMP5)               | Claude Code、Codex、Gemini | 微信、支付宝         | 暂无           |
 | [DuckCoding](https://www.duckcoding.ai/register?aff=O0m6)         | Claude Code、Codex        | 支付宝               | 注册送 1 元    |
+| [huanvel](https://huanvel.com)                                    | Claude Code、Codex        | 微信、支付宝         | 充值满 ¥50 享 Claude 0.7× / GPT 0.2× |
 | [iKunCode](https://api.ikuncode.cc/register?aff=Q9eD)             | Claude Code、Codex        | 微信、支付宝         | 暂无           |
 | [Neko Code](https://nekocode.ai?aff=EKQK1E4D)                     | Claude Code、Codex        | 微信、支付宝         | 暂无           |
 | [OpenClaudeCode](https://www.openclaudecode.cn/register?aff=66ee) | Claude Code、Codex、Gemini | 微信、支付宝         | 暂无           |
